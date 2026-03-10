@@ -1,7 +1,7 @@
 # Scan2Key4Windows
 <head>
   <style>
-    p.format1 {
+.format1 {
   line-height: 1.8;
           text-align: center;
 }
