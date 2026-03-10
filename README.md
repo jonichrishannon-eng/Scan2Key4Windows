@@ -1,14 +1,8 @@
 # Scan2Key4Windows
 <head>
-  <style>
-.format1 {
-  line-height: 1.8;
-          text-align: center;
-}
-  </style>
 </head>
 <body>
-<p class="format1">
+<p style="line-height: 1.8; text-align: center;">
 The ONLY solution So far to allow the Unitech PA700 Transmit Barcode data reliably to Windows via Scan2Key
 <img width="1548" height="1079" alt="image" src="https://github.com/user-attachments/assets/583a0bbe-8994-4b47-ac53-3f7c2f400764" />
 Tutorial
